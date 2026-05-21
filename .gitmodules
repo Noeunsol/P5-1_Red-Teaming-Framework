@@ -1,0 +1,4 @@
+[submodule "PyRIT_ko"]
+	path = PyRIT_ko
+	url = https://github.com/Noeunsol/PyRIT_ko.git
+	branch = ko-pyrit
