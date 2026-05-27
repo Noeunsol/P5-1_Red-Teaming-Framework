@@ -1,0 +1,15 @@
+# Garak tutorial dedicated environment
+# Usage:
+#   conda create -n redteam-garak python=3.11 -y
+#   conda activate redteam-garak
+#   pip install -r requirements-garak.txt
+
+garak>=0.15.0
+python-dotenv>=1.0.0
+pandas>=2.0.0
+ipython>=8.0.0
+ipykernel>=6.29.0
+jupyter>=1.0.0
+ipywidgets>=8.0.0
+nbformat>=5.9.0
+nest_asyncio>=1.6.0
